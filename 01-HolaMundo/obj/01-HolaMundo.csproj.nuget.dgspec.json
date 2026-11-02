@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\reyso\\OneDrive\\Escritorio\\Mi repositorio\\01-Holamundo\\01-HolaMundo.csproj": {}
+    "C:\\Users\\reyso\\OneDrive\\Escritorio\\Mi repositorio\\01-HolaMundo\\01-HolaMundo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\reyso\\OneDrive\\Escritorio\\Mi repositorio\\01-Holamundo\\01-HolaMundo.csproj": {
+    "C:\\Users\\reyso\\OneDrive\\Escritorio\\Mi repositorio\\01-HolaMundo\\01-HolaMundo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\reyso\\OneDrive\\Escritorio\\Mi repositorio\\01-Holamundo\\01-HolaMundo.csproj",
+        "projectUniqueName": "C:\\Users\\reyso\\OneDrive\\Escritorio\\Mi repositorio\\01-HolaMundo\\01-HolaMundo.csproj",
         "projectName": "01-HolaMundo",
-        "projectPath": "C:\\Users\\reyso\\OneDrive\\Escritorio\\Mi repositorio\\01-Holamundo\\01-HolaMundo.csproj",
+        "projectPath": "C:\\Users\\reyso\\OneDrive\\Escritorio\\Mi repositorio\\01-HolaMundo\\01-HolaMundo.csproj",
         "packagesPath": "C:\\Users\\reyso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\reyso\\OneDrive\\Escritorio\\Mi repositorio\\01-Holamundo\\obj\\",
+        "outputPath": "C:\\Users\\reyso\\OneDrive\\Escritorio\\Mi repositorio\\01-HolaMundo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\reyso\\AppData\\Roaming\\NuGet\\NuGet.Config"

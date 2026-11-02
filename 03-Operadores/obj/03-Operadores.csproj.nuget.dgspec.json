@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\reyso\\OneDrive\\Escritorio\\Mi repositorio\\03-Operadores\\03-Operadores.csproj": {}
+    "C:\\Users\\reyso\\OneDrive\\Escritorio\\Mi repositorio\\03-Operadores\\03-Operadores.csproj": {}
   },
   "projects": {
-    "c:\\Users\\reyso\\OneDrive\\Escritorio\\Mi repositorio\\03-Operadores\\03-Operadores.csproj": {
+    "C:\\Users\\reyso\\OneDrive\\Escritorio\\Mi repositorio\\03-Operadores\\03-Operadores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\reyso\\OneDrive\\Escritorio\\Mi repositorio\\03-Operadores\\03-Operadores.csproj",
+        "projectUniqueName": "C:\\Users\\reyso\\OneDrive\\Escritorio\\Mi repositorio\\03-Operadores\\03-Operadores.csproj",
         "projectName": "03-Operadores",
-        "projectPath": "c:\\Users\\reyso\\OneDrive\\Escritorio\\Mi repositorio\\03-Operadores\\03-Operadores.csproj",
+        "projectPath": "C:\\Users\\reyso\\OneDrive\\Escritorio\\Mi repositorio\\03-Operadores\\03-Operadores.csproj",
         "packagesPath": "C:\\Users\\reyso\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\reyso\\OneDrive\\Escritorio\\Mi repositorio\\03-Operadores\\obj\\",
+        "outputPath": "C:\\Users\\reyso\\OneDrive\\Escritorio\\Mi repositorio\\03-Operadores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\reyso\\AppData\\Roaming\\NuGet\\NuGet.Config"
