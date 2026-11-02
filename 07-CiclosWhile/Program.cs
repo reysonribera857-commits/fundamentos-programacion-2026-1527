@@ -4,7 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        // 1. Pedir un número entre 1 y 12 (se repite hasta que sea válido)
         int numero;
         bool esNumero;
 
@@ -19,7 +18,7 @@ class Program
             }
         } while (!esNumero || numero < 1 || numero > 12);
 
-        // 2. Tabla de multiplicar del 1 al 12 con while
+        
         Console.WriteLine();
         Console.WriteLine($"Tabla del {numero}:");
 
@@ -31,7 +30,6 @@ class Program
             int resultado = numero * contador;
             Console.WriteLine($"{numero} x {contador} = {resultado}");
 
-            // 3. Acumulador
             suma = suma + resultado;
 
             contador++;
