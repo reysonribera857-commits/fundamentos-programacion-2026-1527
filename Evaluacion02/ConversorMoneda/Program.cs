@@ -2,7 +2,6 @@
 
 class Program
 {
-    // Tasa del dólar del día (pesos por 1 USD). Actualízala con la del Banco Central.
     const double TASA_USD = 59.50;
 
     static void Main(string[] args)
