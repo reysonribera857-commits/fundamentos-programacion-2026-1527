@@ -2,12 +2,10 @@
 
 class Program
 {
-    // Año actual, usado para calcular el año de nacimiento
     const int ANIO_ACTUAL = 2026;
 
     static void Main(string[] args)
     {
-        // Pedimos los datos al usuario
         Console.Write("Nombre: ");
         string nombre = Console.ReadLine();
 
@@ -17,15 +15,12 @@ class Program
         Console.Write("Estatura (en metros): ");
         double estatura = double.Parse(Console.ReadLine());
 
-        // bool.Parse necesita que se escriba exactamente true o false
         Console.Write("¿Trabaja? (true/false): ");
         bool trabaja = bool.Parse(Console.ReadLine());
 
-        // Año de nacimiento y año en que cumplirá 30
         int anioNacimiento = ANIO_ACTUAL - edad;
         int anioTreinta = anioNacimiento + 30;
 
-        // Mostramos la ficha con interpolación
         Console.WriteLine();
         Console.WriteLine("===== FICHA PERSONAL =====");
         Console.WriteLine($"Nombre: {nombre}");
